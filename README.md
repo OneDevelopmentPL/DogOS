@@ -5,7 +5,7 @@
   <p>
     <a href="https://github.com/OneDevelopmentPL/DogOS/stargazers"><img src="https://img.shields.io/github/stars/OneDevelopmentPL/DogOS?style=for-the-badge&color=FFD700" alt="Stars"></a>
     <a href="https://github.com/OneDevelopmentPL/DogOS/issues"><img src="https://img.shields.io/github/issues/OneDevelopmentPL/DogOS?style=for-the-badge&color=FF69B4" alt="Issues"></a>
-    <a href="https://github.com/OneDevelopmentPL/DogOS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
+    <a href="https://github.com/OneDevelopmentPL/DogOS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="License"></a>
   </p>
 </div>
 
@@ -48,7 +48,7 @@ DogOS/
 ### Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/your-username/DogOS.git
+git clone https://github.com/OneDevelopmentPL/DogOS.git
 cd DogOS
 
 # Set up your virtual environment
