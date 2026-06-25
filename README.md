@@ -13,13 +13,13 @@
 
 ## 🌟 Overview
 
-**DogOS** is a cutting-edge, open-source operating system and development environment designed specifically for quadruped robots (like the Unitree Go1). It bridges the gap between complex robotics hardware and advanced AI models, making embodied AI accessible to researchers, developers, and hobbyists.
+**DogOS** is a cutting-edge, open-source operating system and development environment designed specifically for quadruped robots. Built on the foundation of the **SpotMicroESP32-Leika** platform (and featuring simulation support for the Unitree Go1), it bridges the gap between complex robotics hardware and advanced AI models, making embodied AI accessible to researchers, developers, and hobbyists.
 
 Whether you want to simulate physics, integrate vision tracking, or chat with your robot using Gemini, DogOS provides the tools you need.
 
 ## ✨ Key Features
 
-- 🧠 **AI Integration Ready**: Built-in support for large language models (Gemini) for conversational robotics.
+- 🧠 **AI Integration Ready**: Built-in support for large language models (Gemini 2.5 Flash Lite) for conversational robotics.
 - 🎯 **Computer Vision**: Modules for real-time small ball tracking and visual processing.
 - ⚖️ **Auto-Stabilization**: Advanced control algorithms to keep your robot balanced in dynamic environments.
 - 🎮 **PyBullet Simulation**: Fully-featured Unitree Go1 simulation environment with an interactive Python code editor.
